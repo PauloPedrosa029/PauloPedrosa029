@@ -1,8 +1,7 @@
 ### Olá!
-Chamo-me Paulo, tenho 24 anos e atualmente estou cursando o ensino superior em análise e desenvolvimento de sistemas e o técnico em desenvolvimento de sistemas. Almejo o meu crescimento profissional na área de TI, com ênfase em desenvolvimento, aonde escolhi seguir carreira.
+Sou o Paulo, tenho 26 anos e sou atualmente formado como técnico em desenvolvimento de sistemas e almejo o meu crescimento profissional na área de TI, com ênfase em programação, aonde escolhi seguir carreira.
 
-- 🔭 Em busca de estágio na área de TI
-- 🌱 Estudando JavaScript
+- 🔭 
 - 😄 Pronouns: Ele/Dele
 <div>
   <a href="https://beacons.ai/PauloPedrosa029">
