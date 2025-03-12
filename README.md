@@ -1,5 +1,5 @@
 ### Olá!
-Sou o Paulo, tenho 26 anos e sou atualmente formado como técnico em desenvolvimento de sistemas e almejo o meu crescimento profissional na área de TI, com ênfase em programação, aonde escolhi seguir carreira.
+Me chamo Paulo, tenho 26 anos, sou formado como técnico em desenvolvimento de sistemas, faço o técnico em automação industrial e almejo o meu crescimento profissional na área de TI, com ênfase em programação, aonde escolhi seguir carreira.
 
 - 🔭 
 - 😄 Pronouns: Ele/Dele
